@@ -1,0 +1,15 @@
+E:\Projects\civic-tracker\backend\src\main\java\com\civic\tracker\config\SecurityConfig.java
+E:\Projects\civic-tracker\backend\src\main\java\com\civic\tracker\service\AccountService.java
+E:\Projects\civic-tracker\backend\src\main\java\com\civic\tracker\TrackerApplication.java
+E:\Projects\civic-tracker\backend\src\main\java\com\civic\tracker\config\CorsConfig.java
+E:\Projects\civic-tracker\backend\src\main\java\com\civic\tracker\repository\CommentRepository.java
+E:\Projects\civic-tracker\backend\src\main\java\com\civic\tracker\repository\IssueRepository.java
+E:\Projects\civic-tracker\backend\src\main\java\com\civic\tracker\controller\AuthController.java
+E:\Projects\civic-tracker\backend\src\main\java\com\civic\tracker\repository\AccountRepository.java
+E:\Projects\civic-tracker\backend\src\main\java\com\civic\tracker\service\IssueService.java
+E:\Projects\civic-tracker\backend\src\main\java\com\civic\tracker\model\Account.java
+E:\Projects\civic-tracker\backend\src\main\java\com\civic\tracker\controller\ApiExceptionHandler.java
+E:\Projects\civic-tracker\backend\src\main\java\com\civic\tracker\model\Issue.java
+E:\Projects\civic-tracker\backend\src\main\java\com\civic\tracker\controller\IssueController.java
+E:\Projects\civic-tracker\backend\src\main\java\com\civic\tracker\model\Comment.java
+E:\Projects\civic-tracker\backend\src\main\java\com\civic\tracker\config\SeedData.java
